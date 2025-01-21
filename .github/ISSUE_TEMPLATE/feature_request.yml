@@ -2,7 +2,7 @@ name: Feature Report
 description: Propose a new feature or idea.
 title: Feature Request
 labels: [ feature-request ]
-type: [ Feature ]
+type: Feature
 body:
   - type: dropdown
     attributes:
