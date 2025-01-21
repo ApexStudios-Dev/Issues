@@ -44,7 +44,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Any Additional Information?
+      label: Any additional information?
       description: |
         Links? References? Anything that will give us more context about the issue you are encountering!
         If this is a particularly complex issue, consider something like a video clip or gif.
