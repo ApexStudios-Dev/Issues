@@ -23,7 +23,7 @@ body:
       description: Are there any alternative ways of implementing this idea? Especially if this addresses a problem.
   - type: textarea
     attributes:
-      label: Any Additional Information?
+      label: Any additional information?
       description: |
         Links? References? Anything that will give us more context about the proposal.
         
