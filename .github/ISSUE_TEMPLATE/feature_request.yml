@@ -1,0 +1,30 @@
+name: Feature Report
+description: Propose a new feature or idea.
+title: Feature Request
+labels: [ feature-request ]
+type: [ Feature ]
+body:
+  - type: dropdown
+    attributes:
+      label: Which mod is this feature intended for?
+      options: [ ApexCore, ItemResistance, "Fantasy's Furniture", "Fantasy's Dice", "Infused Foods" ]
+      multiple: true
+  - type: textarea
+    attributes:
+      label: Explain your idea
+      description: Explain the proposed feature, include as much detail as necessary to convey it fully.
+  - type: textarea
+    attributes:
+      label: Why do you think this feature belongs in our Mod.
+      description: Explain what purpose this serves as part of this mod. Is it addressing an issue, a gap or something else?
+  - type: textarea
+    attributes:
+      label: Are there any alternatives?
+      description: Are there any alternative ways of implementing this idea? Especially if this addresses a problem.
+  - type: textarea
+    attributes:
+      label: Any Additional Information?
+      description: |
+        Links? References? Anything that will give us more context about the proposal.
+        
+        Tip: You can attach images by clicking this area to highlight it and then dragging files in.
