@@ -5,49 +5,48 @@ labels: [ bug ]
 type: Bug
 body:
   - type: textarea
-  attributes:
-    label: Current behavior
-    description: Explain what is currently happening which you consider to be a bug
+    attributes:
+      label: Current behavior
+      description: Explain what is currently happening which you consider to be a bug
     
   - type: textarea
-  attributes:
-    label: Expected behavior
-    description: Explain what expected to happen
+    attributes:
+      label: Expected behavior
+      description: Explain what expected to happen
     
   - type: textarea
-  attributes:
-    label: How to test
-    description: Explain, step-by-step what  you did at the time of the problem.
-    placeholder: |
-      1. Go to '...'
-      2. Click on '...'
-      3. Scroll down to '...'
-      4. See error
+    attributes:
+      label: How to test
+      description: Explain, step-by-step what  you did at the time of the problem.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
   
   - type: textarea
-  attributes:
-    label: Environment
-    description: |
-      examples:
-         - **Operating System**: Windows
-         - **Java Version**: Adoptium 16.0.2.7-hotspot
-         - **Minecraft Version**: 1.21.4
-         - **Version**: 21.4.0
-         - **Other Mods**: Applied Energistics 2, Mekanism...
-    value: |
-        - **Operating System**: 
-        - **Java version**: 
-        - **Minecraft Version**: 
-        - **Version**: 
-        - **Other Mods**: 
-    render: markdown
+    attributes:
+      label: Environment
+      description: |
+        examples:
+           - **Operating System**: Windows
+           - **Java Version**: Adoptium 16.0.2.7-hotspot
+           - **Minecraft Version**: 1.21.4
+           - **Version**: 21.4.0
+           - **Other Mods**: Applied Energistics 2, Mekanism...
+      value: |
+          - **Operating System**: 
+          - **Java version**: 
+          - **Minecraft Version**: 
+          - **Version**: 
+          - **Other Mods**: 
+      render: markdown
 
-    - type: textarea
-  attributes:
-  attributes:
-    label: Any Additional Information?
-    description: |
-      Links? References? Anything that will give us more context about the issue you are encountering!
-      If this is a particularly complex issue, consider something like a video clip or gif.
+  - type: textarea
+    attributes:
+      label: Any Additional Information?
+      description: |
+        Links? References? Anything that will give us more context about the issue you are encountering!
+        If this is a particularly complex issue, consider something like a video clip or gif.
 
-      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
