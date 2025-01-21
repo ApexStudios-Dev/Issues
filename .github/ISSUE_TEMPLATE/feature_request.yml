@@ -15,7 +15,7 @@ body:
       description: Explain the proposed feature, include as much detail as necessary to convey it fully.
   - type: textarea
     attributes:
-      label: Why do you think this feature belongs in our Mod.
+      label: Why do you think this feature belongs in our mod(s)?
       description: Explain what purpose this serves as part of this mod. Is it addressing an issue, a gap or something else?
   - type: textarea
     attributes:
