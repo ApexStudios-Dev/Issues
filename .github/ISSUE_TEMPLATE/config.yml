@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Discord
+      about: Connect on Discord
+      url: https://discord.apexstudios.dev
+
+    - name: FAQ
+      about: Frequently Asked Questions
+      url: FAQ.md
