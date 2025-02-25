@@ -26,8 +26,10 @@ We do not implement CTM ourselves but make use of CTM provided by other mods.
 Install any mod which provides CTM capabilities, if we support that mods CTM, a new resource pack will become available for you to enable.
 
 Currently supported CTM mods:
-- CTM
-- XyCraft: Core
+- [CTM](https://www.curseforge.com/minecraft/mc-mods/ctm)
+- [~~XyCraft: Core~~](https://www.curseforge.com/minecraft/mc-mods/xycraft) - Support will return once its updated to 21.4
+- [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+- [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 
 # The mod is crashing when holding/attempting to place one of your items
 Do you have Oculus/Optifine/Shaders installed or any other mod which overhauls the vanilla renderer?
