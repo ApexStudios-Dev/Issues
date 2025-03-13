@@ -4,6 +4,12 @@ title: Bug Report
 labels: [ bug ]
 type: Bug
 body:
+  - type: dropdown
+    attributes:
+      label: What mods are associated with this bug?
+      options: [ ApexCore, ItemResistance, "Fantasy's Furniture", "Fantasy's Dice", "Infused Foods" ]
+      multiple: true
+      
   - type: textarea
     attributes:
       label: Current behavior
