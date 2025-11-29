@@ -35,3 +35,15 @@ Currently supported CTM mods:
 Do you have Oculus/Optifine/Shaders installed or any other mod which overhauls the vanilla renderer?
 
 If so this is more than likely the culprit, before reporting a issue please validate if this is the case by attempting to recreate the issue without said mods installed.
+
+# Will you downport to X version?
+
+We try to keep as up-to-date as possible with our mods, always updating to latest version possible, and we do not actively downport or update any older versions.
+
+With that said we will update older versions if major issues/bugs are found, we sadly just do not have the time to keep every version updated and feature complete.
+
+# Will you downport to / update 21.1 or older?
+
+Same answer as [_`Will you downport to X version?`_](#will-you-downport-to-x-version) but also these versions are very legacy and fully unsupported now.
+
+Due to the major overhaul/rewrite we did in 21.4+ and moving to NeoForge there are unfortunatly too many breaking changes for us to downport to or update these versions.
