@@ -30,10 +30,13 @@ We do not implement CTM ourselves but make use of CTM provided by other mods.
 Install any mod which provides CTM capabilities, if we support that mods CTM, a new resource pack will become available for you to enable.
 
 Currently supported CTM mods:
+- [ConTex](https://www.curseforge.com/minecraft/mc-mods/contex)\*
 - [CTM](https://www.curseforge.com/minecraft/mc-mods/ctm)
 - [XyCraft: Core](https://www.curseforge.com/minecraft/mc-mods/xycraft)
 - [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
 - [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
+
+<sub>**\*** - Recommended</sub>
 
 # The mod is crashing when holding/attempting to place one of your items
 
